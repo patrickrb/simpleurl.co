@@ -7,6 +7,3 @@ class Home extends CI_Controller {
 		$this->load->view('home_view');
 	}
 }
-
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */

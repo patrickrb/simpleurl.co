@@ -134,14 +134,13 @@
                   <div class="nav-collapse collapse">
                     <ul class="nav">
                       <li class="active"><a href="http://burnsforcedevelopment.com/">Home</a></li>
-                      <li><a href="#about">Source</a></li>
+                      <li><a href="https://github.com/patrickrb/simpleurl.co">Source</a></li>
                       <li><a href="http://www.linkedin.com/in/burnsforce">Contact</a></li>
                       <!-- Read about Bootstrap dropdowns at http://twbs.github.com/bootstrap/javascript.html#dropdowns -->
                       <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                           <li><a href="http://simpleurl.co">URL Shortener</a></li>
-                          <li><a href="http://burnsforcedevelopment.com/linkbaitgenerator/">Link Bait Generator</a></li>
                           <li><a href="http://chat.burnsforcedevelopment.com/">Web Sockets Chat</a></li>
                           <li><a href="http://burnsforcedevelopment.com/citysay/">Kansas City Says</a></li>
                         </ul>
